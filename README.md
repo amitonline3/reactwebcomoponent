@@ -28,21 +28,7 @@ The build is minified and the filenames include the hashes.\
 Your component is ready to be deployed!
 
 This way you can use your component
-
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-
-    <script src="./static/js/main.2071d636.js "></script>
-
-  </head>
-  <body>
-    <react-component></react-component>
-  </body>
-</html>
+<script src="./static/js/main.2071d636.js "></script>
+<react-component></react-component>
 
 ###
