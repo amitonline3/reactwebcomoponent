@@ -10,6 +10,8 @@ Your component is ready to be deployed!
 
 This way you can use your component
 
-### <script src="./static/js/main.2071d636.js "></script>
+```<script src="./static/js/main.2071d636.js "></script>```
 
-### <react-component></react-component>
+```<react-component></react-component>```
+
+react-component name define in index.tsx
